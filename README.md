@@ -1,2 +1,2 @@
 # Google
-Clon de Google hecho solo con flexbox como práctica y parte de una serie de web clones.
+Clon de Google hecho solo con flexbox como práctica y sin funcionalidad más allá de la visual proporcionada.
