@@ -50,6 +50,10 @@ a:hover{
   margin: 100px auto;
   text-align: center;
 }
+.principal__logo--image{
+  width: 272px;
+  height: 92px;
+}
 .principal__search{
   display: flex;
   justify-content: space-between;
